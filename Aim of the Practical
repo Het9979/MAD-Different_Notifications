@@ -1,0 +1,7 @@
+Create an Android App to demonstrate different notification.
+
+1. Simple Notification.
+2. Notification with LargeIcon, SmallIcon, Date/Time, Badge.
+3. Heads-up Notification with Actions.
+4. Hide Notification content on Lock Screen.
+5. Merge Multiple Notification to single Notification.
